@@ -1,0 +1,57 @@
+»3³13 > 180 5:03«
+
+ς, 35. Quoniam istam summam in logarithmum
+hyperbolicum ipfius congoc duci oportet, quaeramuS pri-
+mo logarithmum vulgarem ipfius cot.15¹ qui reperitur
+z 2,3601799‚ qui in logarithmum hyperbolicum conuer-
+titur, fi multiplicetur per 2, 30258509 ficque totum pri-
+mum membrum nostrae expreffionis constabit his partibus
+1‚00001904. 2,3601799. 2‚30258509 quae per logarlth-
+mos hunc in modum euoluuntur:
+
+[1, 00001904. z 0, 0000082
+l2. 30258509 Ξ 0, 3622157
+[2. 3601799 ΞΟ, 3729452
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Imembr. Ι. 2: 0, 7351691
+ergo membrum I. z 5, 43461.
+
+§- 36, Porro pro secundo membro logarithmus
+hyperbolicus binarii ducatur in cossa hoc modo
+
+lo, 6931472 Ξ 9, 8408253
+lcos. a: 9, 9999835
+
+l membri II. z 9, 8408088
+erg& membrum Π. z 0, 6931 2,
+
+ 
+
+ 
+
+Hoc membrum secundum fi ducatur in {sma‘ dabit mem—¹
+brum tertium, quod ergo ita reperietur
+
+Imcmbr. ΙΙ, :- 9, 8408088
+l{:9, 8750613
+lsm. <2² Ξ 5, 8816838
+
+ 
+
+ 
+
+Imembri ΙΙΙ. z 5, 5975539
+
+ergo membrum III. ῖ- 0, 00004„ H·
+ιε
+

@@ -1,0 +1,62 @@
+»ᾒέ )v16 ( &323⁴-
+dum scilicet ,ambo integralia ab x: 0 ad x: 1 extem
+duntur.
+Theorema particulare ΙΙ, quo p :n-m.
+
+§. 23. Quon'iam' pro hoc casu, quo ρΣη-νη
+supra ostendimus ess‘e
+
+sXx'‘·-⁷⁷¹'“¹dx:
+
+ 
+
+π
+n fin. ”¹7⁷³
+
+nunc deducimur ad sequentem integrationem maxime no-
+tata dignam :
+
+sXxn‘*⁷⁷²'‘'¹dxlx:
+
+ 
+
+ 
+
+ 
+
+η sm ‘32
+
+fi quidem haec ambo integralia ab ,xz-0 vsque ad ‚xz-1
+
+extendantur3 vbi mem'inisssse oportet effe
+” vlt—11·
+
+X:(1-x'²j ¹² ,
+
+§. 24. Hic probe notetur theorema generale latiffi-
+me patere, propterea quod in eo insunt tres exponentes
+indefiniti , scilicet m, n et p ‚ qui penitus arbitrio nostro
+relinquuntur, quos ergo infinitis modis pro lubitu definire
+licet, dummodo singnlis valores positiui tribuantur, ita vt
+semper valor huius formulae integralis sXxv-1dxlx,
+quam ob faftorem lx tanquam transcendentem spectari
+oportet, per formulas integrales ordinarias exprimi queat,
+quae cum sint generaliffima, operae pretium erit non nul-
+los casus speciales euoluere.
+
+ 
+
+1. Euolutio casus. quo m: 1 et n: 2.
+
+ 
+
+ς. 25. Hoc igitur casu erit X Ξ „1:32²
+hoc casu theorema generale ita se habebit
+sxp*¹dxlx xs-¹dx xP*¹dx
+
+ 
+
+V1—xx
+
+—- -ψψ -ψ- fi-
+
